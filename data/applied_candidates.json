@@ -1,0 +1,14 @@
+[
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack and its components. They explained their project clearly, highlighting the technologies used and the challenges they faced. However, there were some areas where they could improve, such as providing more details about their implementation and handling edge cases. Overall, the candidate showed potential and could benefit from further development and refinement of their skills.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 08:53:54"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack and its components, including React, Node, Express, and MongoDB. They were able to explain their project and technical decisions, such as using JWT authentication and React hooks for state management. However, there were some minor areas for improvement, such as not providing more details about the project's architecture and not elaborating on how they optimized performance for large datasets.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 09:06:19"
+    }
+]

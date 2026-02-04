@@ -1,0 +1,15 @@
+Interviewer: Can you explain the MERN project you mentioned in your resume?
+
+Candidate: I built a job portal using the MERN stack. React was used for the frontend, Node and Express for the backend, and MongoDB for storing user and job data.
+
+Interviewer: How did you handle authentication?
+
+Candidate: I used JWT-based authentication. Tokens were stored securely and middleware was used to protect routes.
+
+Interviewer: How did you manage state in React?
+
+Candidate: I mainly used React hooks and context API for global state, especially for user authentication state.
+
+Interviewer: What challenges did you face?
+
+Candidate: Handling async API calls and optimizing performance for large datasets was challenging, but I used pagination and indexing in MongoDB.

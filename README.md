@@ -1,8 +1,8 @@
 # 🎙️ Meet Arya: Your Next-Gen AI Technical Recruiter
 
-Hiring for specialized roles like MERN stack developers is exhausting. Between sorting through hundreds of resumes, verifying GitHub links that might be empty, and playing phone tag with candidates, hours of productive time are lost every week. 
+Hiring for specialized roles like(e.g : MERN stack developers)is exhausting. Between sorting through hundreds of resumes, verifying GitHub links that might be empty, and playing phone tag with candidates, hours of productive time are lost every week. 
 
-**Arya** is here to change that. Built with heart at **Arya Stack Technologies**, Arya isn't just a script—it's a multi-agent AI partner that handles the heavy lifting of recruitment, so you can focus on the people, not the paperwork.
+**Arya** is here to change that. Built with heart at **Stack Technologies**, Arya isn't just a script—it's a multi-agent AI partner that handles the heavy lifting of recruitment, so you can focus on the people, not the paperwork.
 
 ---
 
@@ -96,4 +96,4 @@ We believe in using the best tools for the job:
 *   **Heart**: Python.
 
 ---
-*Created with ❤️ by Shivaraj Yelugodla at Arya Stack Technologies*
+*Created with ❤️ by Shivaraj Yelugodla *

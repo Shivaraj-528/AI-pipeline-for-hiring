@@ -1,15 +1,8 @@
-Interviewer: Can you explain the MERN project you mentioned in your resume?
-
-Candidate: I built a job portal using the MERN stack. React was used for the frontend, Node and Express for the backend, and MongoDB for storing user and job data.
-
-Interviewer: How did you handle authentication?
-
-Candidate: I used JWT-based authentication. Tokens were stored securely and middleware was used to protect routes.
-
-Interviewer: How did you manage state in React?
-
-Candidate: I mainly used React hooks and context API for global state, especially for user authentication state.
-
-Interviewer: What challenges did you face?
-
-Candidate: Handling async API calls and optimizing performance for large datasets was challenging, but I used pagination and indexing in MongoDB.
+User: Hello?
+AI: Hello. Thank you for joining the call today. My name is your name, and I am from ARIA Stack Technologies. I'm happy to be speaking with you. We are a company that specializes in creating innovative tech solutions using the latest technology stacks. This call is part of the first round of interviews for the MernStack developer position you've applied for. I'll be asking you a few technical questions to assess your knowledge and skills related to the MernStack. Are you ready to get started?
+User: Yes. I already get started.
+AI: Great. Let's begin with the first question. Um, can you explain what MernStack is and its components?
+User: Men's tag is m stands for member debit. Each transfer exclusive. r stands for React. j f n stands for Node. j f.
+AI: Thank you for your response. The term Mernstack stands for MongoDB, ExpressOGS, ReactOS, and Node. js. These are the key technologies used in building a full stack JavaScript application. One, MongoDB, a no skill database that stores data in a flexible JSON like format. Two, Express. js, a web application framework for Node. js designed for building robust web applications. APIs. Three, React JS, a front end JavaScript library developed by Facebook for building user interfaces. Four, Node JS, a JavaScript runtime environment that executes JavaScript outside of a web browser, no problem at all. move on to the next question. Can you describe how you would create a RESTful API using Node. js and Express. js?
+User: I will use Node. js as a back end find time management system.
+AI: Using Node. js as a back end for creating a RESTful API typically involves the following steps. One, setting up the project. The

@@ -10,5 +10,65 @@
         "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack and its components, including React, Node, Express, and MongoDB. They were able to explain their project and technical decisions, such as using JWT authentication and React hooks for state management. However, there were some minor areas for improvement, such as not providing more details about the project's architecture and not elaborating on how they optimized performance for large datasets.",
         "remarks": "Selected by AI hiring system",
         "timestamp": "2026-02-04 09:06:19"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack and its components. They explained their project effectively, highlighting the use of JWT authentication and React hooks for state management. However, there were some minor gaps in their explanation, such as not explicitly mentioning the use of Express.js for the backend and not providing more details about the challenges they faced and how they were resolved. Overall, the candidate showed a solid grasp of the technical aspects of the MERN stack, but could improve on providing more depth and clarity in their responses.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 09:25:24"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack and its components. They explained their project clearly, highlighting the technologies used and the challenges they faced. However, there were some areas where they could improve, such as providing more details on their implementation of JWT authentication and state management in React. Overall, the candidate showed potential and could benefit from further development in these areas.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 09:45:47"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack and its components. They were able to explain their project, including the technologies used and the challenges they faced. However, there were some minor gaps in their explanation, such as not explicitly mentioning how they handled routing and not providing more details about their experience with MongoDB. Overall, the candidate showed a solid grasp of the MERN stack and its application in a real-world project.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 10:07:17"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack and its components. They explained their project effectively and provided specific examples of technologies used, such as JWT authentication and React hooks. However, there were some minor gaps in their explanation, such as not mentioning the use of REST APIs and not elaborating on the implementation details of pagination and indexing in MongoDB. Overall, the candidate's technical understanding and communication skills are satisfactory, but there is room for improvement in providing more detailed and nuanced explanations.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 10:41:08"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack and its components. They were able to explain their project and technical decisions clearly, showcasing their hands-on experience with React, Node.js, Express.js, and MongoDB. However, there were some minor areas where they could improve, such as providing more details about their implementation of JWT authentication and pagination in MongoDB. Additionally, they could have elaborated more on their experience with state management in React.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 11:06:14"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack and its components. They were able to explain their project and technical decisions clearly, showcasing their hands-on experience with React, Node.js, Express.js, and MongoDB. However, there were some minor gaps in their explanation, such as not elaborating on the implementation details of JWT authentication and not mentioning any specific challenges they faced in managing state in React. Additionally, they could have provided more insights into their problem-solving approach and how they optimized performance for large datasets.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 11:20:37"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack and provided clear explanations of their projects. However, there were some minor gaps in their technical knowledge, particularly in the context of the MERN stack. For instance, when asked about the use of MongoDB, they only mentioned it as a database, but didn't elaborate on its features or how they utilized it in their projects. Additionally, their project explanations were brief and lacked specific technical details. Nevertheless, their communication skills were clear and concise, making them a strong candidate for further evaluation.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 11:37:40"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: Arjun demonstrated a good understanding of the MERN stack, particularly in React, Node.js, and MongoDB. His project explanations were clear and concise, and he was able to provide specific examples of his work. However, there were some areas where he could improve, such as providing more technical details about his projects and being more prepared to answer behavioral questions. Overall, he showed potential and could benefit from further development in certain areas.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 15:08:00"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 85\nDecision: Pass\nReason: The candidate, Arjun Kumar, demonstrates a good understanding of the MERN stack, with a clear explanation of his technical skills and experience. He mentions specific technologies such as React.js, Node.js, Express.js, and MongoDB, which is a good sign. However, his project explanation could be more detailed, and he could have elaborated more on the challenges he faced and how he overcame them. Additionally, his communication clarity is good, but there are a few instances of filler words (\"uh\") that could be improved. Overall, he shows potential and a solid foundation in MERN stack development.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 15:30:53"
+    },
+    {
+        "decision": "Pass",
+        "evaluation_summary": "Score: 60\nDecision: Pass\nReason: The candidate demonstrated a good understanding of the MERN stack, but struggled to accurately explain the components. They also showed some confusion in their response to the first question. However, they were able to provide a decent explanation of how to create a RESTful API using Node.js and Express.js. Overall, their technical understanding of the MERN stack was decent, but their communication clarity could be improved.",
+        "remarks": "Selected by AI hiring system",
+        "timestamp": "2026-02-04 17:16:02"
     }
 ]

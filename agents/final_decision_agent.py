@@ -37,7 +37,7 @@ def handle_final_decision(evaluation_result):
 
     if decision.lower() == "pass":
         message = (
-            "✅ *Candidate Shortlisted for Round 2*\n"
+            "Candidate Shortlisted for Round 2\n"
             "Company: Arya Stack Technologies\n"
             f"{evaluation_result}"
         )

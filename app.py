@@ -8,9 +8,9 @@ from agents.interview_evaluation_agent import evaluate_interview
 from agents.final_decision_agent import handle_final_decision
 from utils.resume_parser import extract_resume_text
 
-st.set_page_config(page_title="Arya Stack Hiring AI", layout="centered")
+st.set_page_config(page_title="AgentForge Hiring AI", layout="centered")
 
-st.title("🤖 Arya Stack Technologies – AI Hiring Agent")
+st.title("🤖 AgentForge Technologies – AI Hiring Agent")
 
 st.markdown("Upload resume and start AI-powered interview")
 

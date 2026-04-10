@@ -47,9 +47,20 @@ def extract_email(resume_text):
     if match:
         return match.group(0)
     return None
+
+def extract_phone(resume_text):
+    # Regex to match common phone number formats (with or without country code)
+    # Plus sign, optional digits, dashboard/space, more digits
+    phone_pattern = r'(\+?\d{1,3}[-.\s]?)?(\d{10}|\d{3}[-.\s]?\d{3}[-.\s]?\d{4})'
+    match = re.search(phone_pattern, resume_text)
+    if match:
+        return match.group(0).strip()
+    return None
+
 def extract_resume_data(resume_text):
     return {
         "email": extract_email(resume_text),
+        "phone": extract_phone(resume_text),
         "text": resume_text
     }
 

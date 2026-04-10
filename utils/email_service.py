@@ -17,7 +17,7 @@ def send_selection_email(candidate_email, candidate_name="Candidate"):
         return
 
     msg = EmailMessage()
-    msg["Subject"] = "Congratulations! Interview Result – Arya Stack Technologies"
+    msg["Subject"] = "Congratulations! Interview Result – AgentForge Technologies"
     msg["From"] = SENDER_EMAIL
     msg["To"] = candidate_email
 
@@ -26,7 +26,7 @@ Dear {candidate_name},
 
 Congratulations!
 
-We are pleased to inform you that you have successfully cleared the interview rounds for the MERN Stack Developer position at Arya Stack Technologies.
+We are pleased to inform you that you have successfully cleared the interview rounds for the MERN Stack Developer position at AgentForge Technologies.
 
 Our HR team will reach out to you shortly with the next steps.
 
@@ -34,7 +34,7 @@ We look forward to working with you.
 
 Best regards,
 HR Team
-Arya Stack Technologies
+AgentForge Technologies
 """)
 
     try:
@@ -58,7 +58,7 @@ def send_call_booking_email(candidate_email, candidate_name="Candidate"):
         return False
 
     msg = EmailMessage()
-    msg["Subject"] = "Interview Call - Schedule at Your Convenience | Arya Stack Technologies"
+    msg["Subject"] = "Interview Call - Schedule at Your Convenience | AgentForge Technologies"
     msg["From"] = SENDER_EMAIL
     msg["To"] = candidate_email
 
@@ -88,21 +88,21 @@ def send_call_booking_email(candidate_email, candidate_name="Candidate"):
 <body>
     <div class="container">
         <div class="header">
-            <h2>Arya Stack Technologies</h2>
+            <h2>AgentForge Technologies</h2>
             <p>MERN Stack Developer - Interview Invitation</p>
         </div>
         
         <div class="content">
             <p>Dear {candidate_name},</p>
             
-            <p>Thank you for applying for the <strong>MERN Stack Developer</strong> position at Arya Stack Technologies!</p>
+            <p>Thank you for applying for the <strong>MERN Stack Developer</strong> position at AgentForge Technologies!</p>
             
             <p>We recently attempted to reach you via phone for a technical interview, but were unable to connect. We understand that you may have been busy or unavailable at that time.</p>
             
             <p><strong>Good news!</strong> You can now schedule the interview at a time that works best for you.</p>
             
             <p style="text-align: center;">
-                <a href="https://calendly.com/aryastack/interview" class="button">📅 Book Your Interview Slot</a>
+                <a href="https://calendly.com/agentforge/interview" class="button">📅 Book Your Interview Slot</a>
             </p>
             
             <p><strong>What to expect:</strong></p>
@@ -121,12 +121,12 @@ def send_call_booking_email(candidate_email, candidate_name="Candidate"):
             
             <p>Best regards,<br>
             <strong>HR Team</strong><br>
-            Arya Stack Technologies<br>
+            AgentForge Technologies<br>
             Email: {SENDER_EMAIL}</p>
         </div>
         
         <div class="footer">
-            <p>This is an automated email from Arya Stack Technologies AI Hiring System.</p>
+            <p>This is an automated email from AgentForge Technologies AI Hiring System.</p>
             <p>If you did not apply for this position, please disregard this email.</p>
         </div>
     </div>
@@ -138,14 +138,14 @@ def send_call_booking_email(candidate_email, candidate_name="Candidate"):
     plain_text = f"""
 Dear {candidate_name},
 
-Thank you for applying for the MERN Stack Developer position at Arya Stack Technologies!
+Thank you for applying for the MERN Stack Developer position at AgentForge Technologies!
 
 We recently attempted to reach you via phone for a technical interview, but were unable to connect. We understand that you may have been busy or unavailable at that time.
 
 GOOD NEWS! You can now schedule the interview at a time that works best for you.
 
 📅 Book Your Interview Slot:
-https://calendly.com/aryastack/interview
+https://calendly.com/agentforge/interview
 
 What to expect:
 - Duration: 15-20 minutes
@@ -161,11 +161,11 @@ We look forward to speaking with you!
 
 Best regards,
 HR Team
-Arya Stack Technologies
+AgentForge Technologies
 Email: {SENDER_EMAIL}
 
 ---
-This is an automated email from Arya Stack Technologies AI Hiring System.
+This is an automated email from AgentForge Technologies AI Hiring System.
 If you did not apply for this position, please disregard this email.
 """
 

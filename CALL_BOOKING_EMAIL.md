@@ -31,7 +31,7 @@ The booking email is sent when:
 
 ### **Subject Line**
 ```
-Interview Call - Schedule at Your Convenience | Arya Stack Technologies
+Interview Call - Schedule at Your Convenience | AgentForge Technologies
 ```
 
 ### **Email Features**
@@ -51,7 +51,7 @@ Interview Call - Schedule at Your Convenience | Arya Stack Technologies
 
 ✅ **Booking Link**
 ```
-https://calendly.com/aryastack/interview
+https://calendly.com/agentforge/interview
 ```
 
 ---
@@ -111,7 +111,7 @@ if not interview_transcript:
 
 ```
 ┌─────────────────────────────────────────┐
-│  Arya Stack Technologies                │
+│  AgentForge Technologies               │
 │  MERN Stack Developer - Interview       │
 ├─────────────────────────────────────────┤
 │                                         │
@@ -138,7 +138,7 @@ if not interview_transcript:
 │                                         │
 │  Best regards,                          │
 │  HR Team                                │
-│  Arya Stack Technologies                │
+│  AgentForge Technologies               │
 └─────────────────────────────────────────┘
 ```
 

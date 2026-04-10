@@ -1,4 +1,11 @@
 # agents/background_verification_agent.py
+# ─────────────────────────────────────────────────────────────────────
+# Stage 2 — Background Verification Agent
+# Verifies candidate identity via Email (regex), LinkedIn (URL check),
+# and GitHub (live API). Computes a weighted credibility score (max 100).
+# Threshold to proceed: credibility_score >= 70
+# Author  : Shivaraj Yelugodla  |  Date: 07-Mar-2026
+# ─────────────────────────────────────────────────────────────────────
 
 import os
 import re

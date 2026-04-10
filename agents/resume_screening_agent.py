@@ -1,4 +1,10 @@
 # agents/resume_screening_agent.py
+# ─────────────────────────────────────────────────────────────────────
+# Stage 1 — Resume Screening Agent
+# Uses Llama 3 (via OpenRouter) to assess whether a candidate meets
+# the MERN Stack Developer requirements. Returns Qualified / Not Qualified.
+# Author  : Shivaraj Yelugodla  |  Date: 07-Mar-2026
+# ─────────────────────────────────────────────────────────────────────
 
 import os
 from openai import OpenAI
@@ -16,7 +22,7 @@ client = OpenAI(
 
 def screen_resume(resume_text):
     prompt = f"""
-You are an HR recruiter at Arya Stack Technologies.
+You are an HR recruiter at AgentForge Technologies.
 
 Job Role: MERN Stack Developer
 

@@ -6,3 +6,7 @@ pypdf
 python-docx
 beautifulsoup4
 validators
+psycopg2-binary
+fastapi
+uvicorn
+python-multipart

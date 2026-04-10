@@ -16,7 +16,7 @@ client = OpenAI(
 
 def generate_interview_questions(resume_text):
     prompt = f"""
-You are a technical interviewer at Arya Stack Technologies.
+You are a technical interviewer at AgentForge Technologies.
 
 Role: MERN Stack Developer
 
